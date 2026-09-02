@@ -1,6 +1,6 @@
 # Clase-4-TN
 ## Trabajo practico domiciliario.
-* cuaderno de Google -
+* Cuaderno de Google -
 * Titulo: Programacion wed 
 * Descripción: Este cuaderno permite visualizar los diferentes términos, definiciones y significados del lenguaje de programación 
 * [[NOTEBOOKLM_PROWEB]]
